@@ -8,12 +8,13 @@ body {
   padding: 0;
   color: #0d0d0d;
 }
+
 main {
   margin: auto;
   display: flex;
 }
+
 #container {
   width: 100vw;
-  height:  100vh;
+  height: 100vh;
 }
-
