@@ -54,3 +54,8 @@ article .body .content {
 article .body .content p {
   margin-bottom: 1rem;
 }
+
+.icon-heart:before {
+  content: "\e9da";
+  color: red;
+}
